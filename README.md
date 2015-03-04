@@ -4,6 +4,7 @@
 
 [Demo](http://glebbahmutov.com/console-log-div/test/index.html),
 [Better short JS demos blog post](http://bahmutov.calepin.co/better-short-javascript-demos.html)
+[Demo](http://glebbahmutov.com/console-log-div/test/index.html)
 
 [![NPM][console-log-div-icon] ][console-log-div-url]
 
@@ -37,6 +38,7 @@ The inner text will has id `console-log-text`.
 </style>
 ```
 
+<<<<<<< HEAD
 ## Customize existing fieldset
 
 Instead of adding a new element at the end of the body, you can mirror console output to an existing `fieldset` 
@@ -50,6 +52,8 @@ I used `fieldset` tag to place an html5 label on the top border.
 
 ## jsFiddle demos
 
+=======
+>>>>>>> 381b3f8ecc8492b9c701b389b01e138c6bc29ced
 When showing demos on [jsfiddle][jsfiddle] or [plnkr][plnkr]
 you can use RawGit proxy
 
